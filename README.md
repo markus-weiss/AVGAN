@@ -5,4 +5,13 @@
 
 # 
 
+## The presentation
+
+https://github.com/markus-weiss/AVGAN/blob/master/Generative%20Modelle%20f%C3%BCr%20audio-visuelle%20Formen.pptx.pdf
+
+## A GIF from the frist trainng with the dcgan
+
+https://github.com/markus-weiss/AVGAN/blob/master/firstTrainWithDCGAN.gif
+
+##
 For more information read the paper: https://github.com/markus-weiss/AVGAN/blob/master/Forschungsprojekt%20(2).pdf
