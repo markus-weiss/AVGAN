@@ -9,7 +9,7 @@ To combine the sound and image input streams the concatenation was used,after th
 
 https://github.com/markus-weiss/AVGAN/blob/master/Generative%20Modelle%20f%C3%BCr%20audio-visuelle%20Formen.pptx.pdf
 
-## A GIF from the frist trainng with the dcgan
+## A GIF from the frist training with the dcgan
 
 https://github.com/markus-weiss/AVGAN/blob/master/firstTrainWithDCGAN.gif
 
