@@ -11,7 +11,7 @@ https://github.com/markus-weiss/AVGAN/blob/master/Generative%20Modelle%20f%C3%BC
 
 ## A GIF from the frist training with the dcgan
 
-https://github.com/markus-weiss/AVGAN/blob/master/firstTrainWithDCGAN.gif
+https://github.com/markus-weiss/AVGAN/blob/master/AVGAN_Paper.pdf
 
 ##
 For more information read the paper: https://github.com/markus-weiss/AVGAN/blob/master/Forschungsprojekt%20(2).pdf
